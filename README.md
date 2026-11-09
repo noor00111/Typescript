@@ -25,6 +25,6 @@ Hey! This repo has my solutions for the Typescript Problems. There are 8 small p
 Along with the code, i wrote two short blogs.
 
  * [Generics and Promise<T>](./generics.md)
- * [Union and intersaction](./Union-and-intersaction.md)
+ * [Union and intersaction](./union-and-intersaction.md)
 
  *Thanks for checking it out!*
