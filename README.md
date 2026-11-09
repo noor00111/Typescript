@@ -24,7 +24,7 @@ Hey! This repo has my solutions for the Typescript Problems. There are 8 small p
 ## Blog Posts
 Along with the code, i wrote two short blogs.
 
- * Blog 1: generics.md
- * Blog 2: Union-and-intersaction.md
+ * [Generics and Promise<T>](./generics.md)
+ * [Union and intersaction](./Union-and-intersaction.md)
 
- Thanks for checking it out!
+ *Thanks for checking it out!*
